@@ -5,7 +5,9 @@
 
 # 👨‍💻 gh-userfetch
 
-An extension for [GitHub CLI](https://github.com/cli/cli) to show your GitHub profile inspired by [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) .
+An extension for [GitHub CLI](https://github.com/cli/cli) to show your GitHub profile inspired by [sheepla/gh-userfetch](https://github.com/sheepla/gh-userfetch) .
+
+The original was archived, so I'm just dipping my toes in the pool.
 
 <img src="./screenshot.png" width="80%" />
 
@@ -15,17 +17,18 @@ Just run `gh userfetch` but needs authentication with GitHub host: `gh auth logi
 
 ## Installation
 
-Requires [GitHub CLI](https://github.com/cli/cli) v2.0.0+ and [stedolan/jq](https://github.com/stedolan/jq).
+Requires [GitHub CLI](https://github.com/cli/cli) v2.0.0+ and [busyloop/lolcat](https://github.com/busyloop/lolcat).
 
 ```bash
-gh extension install sheepla/gh-userfetch
+gh extension install bdmorin/gh-userfetch
 ```
 
 ## TODO
 
-- [ ] configureable color
-- [ ] show profile image instead of octocat logo
+- [ ] look for different `lolcat` type commands
+- [ ] show profile image 
 
 ## Contributing
 
-Welcome!
+GET OFF MAH LAWN!!
+unless you have coookies. then you are welcome.
